@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="184038" started-at="2020-02-16T03:25:18Z" finished-at="2020-02-16T03:28:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="184038" started-at="2020-02-16T03:25:18Z" finished-at="2020-02-16T03:28:22Z">
+      <class name="forgot_password.ForgotPasswordTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:forgot_password.ForgotPasswordTests@1ee9faa]" name="setUp" is-config="true" duration-ms="163514" started-at="2020-02-16T03:25:18Z" finished-at="2020-02-16T03:28:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testForgotPassword()[pri:0, instance:forgot_password.ForgotPasswordTests@1ee9faa]" name="testForgotPassword" duration-ms="16242" started-at="2020-02-16T03:28:02Z" description="forgot password page test" finished-at="2020-02-16T03:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgotPassword -->
+        <test-method status="PASS" signature="takeScreenshot()[pri:0, instance:forgot_password.ForgotPasswordTests@1ee9faa]" name="takeScreenshot" is-config="true" duration-ms="2040" started-at="2020-02-16T03:28:19Z" finished-at="2020-02-16T03:28:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:forgot_password.ForgotPasswordTests@1ee9faa]" name="quitDriver" is-config="true" duration-ms="1550" started-at="2020-02-16T03:28:21Z" finished-at="2020-02-16T03:28:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- forgot_password.ForgotPasswordTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
